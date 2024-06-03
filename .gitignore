@@ -1,2 +1,10 @@
-/bin/Debug/net8.0
-/obj
+**/*.csproj.user
+**/*.sln.ide
+**.suo
+**.tlb
+**.tli
+**.tlh
+**.pyd
+**.ipch
+**/.vs
+**/_ReSharper.*
