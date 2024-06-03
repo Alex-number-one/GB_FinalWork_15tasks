@@ -189,3 +189,4 @@ INSERT INTO animals (animal_name, commands, date_of_birth, age, animal_type)
 SELECT animal_name, commands, date_of_birth, age_animal(date_of_birth), 'young_animals'
 FROM young_animal;
 ### Задания 13-15
+https://github.com/Alex-number-one/GB_FinalWork_15tasks/blob/master/Program.cs
