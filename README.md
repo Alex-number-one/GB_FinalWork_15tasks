@@ -22,3 +22,5 @@ systemctl status mysql
 ![task5](https://github.com/Alex-number-one/GB_FinalWork_15tasks/assets/136375782/d57a4854-19d0-41ba-99c2-045793c12cba)
 
 P.S. У меня несколько раз вылетал Virtual Box в Ubuntu, так что в History осталось только несколько команд.
+### Задание 6
+![task6](https://github.com/Alex-number-one/GB_FinalWork_15tasks/assets/136375782/0ca5ea11-70c6-4da5-97cd-7d288cd96416)
