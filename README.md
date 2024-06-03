@@ -26,6 +26,7 @@ P.S. У меня несколько раз вылетал Virtual Box в Ubuntu,
 ![task6](https://github.com/Alex-number-one/GB_FinalWork_15tasks/assets/136375782/0ca5ea11-70c6-4da5-97cd-7d288cd96416)
 ### Задание 7
 //В подключенном MySQL репозитории создать базу данных “Друзья человека”
+
 CREATE DATABASE peopleFriends;
 ### Задание 8
 // Создать таблицы с иерархией из диаграммы в БД
