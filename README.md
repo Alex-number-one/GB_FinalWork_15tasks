@@ -1,4 +1,4 @@
-# Итоговая контрольная работа
+[task7.txt](https://github.com/user-attachments/files/15531417/task7.txt)# Итоговая контрольная работа
 ### Задание 1
 ![Screenshot 2024-06-01 162836](https://github.com/Alex-number-one/GB_FinalWork_15tasks/assets/136375782/d8df1225-79bd-440a-b996-81dbf5e8071c)
 ### Задание 2
@@ -24,3 +24,7 @@ systemctl status mysql
 P.S. У меня несколько раз вылетал Virtual Box в Ubuntu, так что в History осталось только несколько команд.
 ### Задание 6
 ![task6](https://github.com/Alex-number-one/GB_FinalWork_15tasks/assets/136375782/0ca5ea11-70c6-4da5-97cd-7d288cd96416)
+### Задание 7
+[Upl# В подключенном MySQL репозитории создать базу данных “Друзья человека”
+CREATE DATABASE peopleFriends;
+oading task7.txt…]()
